@@ -1,0 +1,11 @@
+.keras/
+.DS_Store
+.matplotlib-cache/
+.ipynb_checkpoints/
+__pycache__/
+
+# Local Jupyter kernel specs contain machine-specific absolute paths.
+r_keras_kernel/
+
+# Temporary notebook exports. The curated submission export is committed.
+neural_style_transfer_Ashish_Ashish_2026-05-11.html
